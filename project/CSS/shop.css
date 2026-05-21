@@ -4,7 +4,6 @@ padding:0;
 box-sizing:border-box;
 font-family:'Poppins',sans-serif;
 }
-
 body{
 background:#0f0f0f;
 color:white;
@@ -48,6 +47,8 @@ transition:0.3s;
 nav ul li a:hover{
 color:#ff4d6d;
 }
+background-image:url('../images/shop-bg.jpg');
+body{
 
 .categories{
 display:flex;
