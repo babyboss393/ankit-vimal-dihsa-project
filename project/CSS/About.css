@@ -10,8 +10,6 @@ body{
     color:white;
 }
 
-/* NAVBAR */
-
 .navbar{
     background:black;
     padding:20px 60px;
@@ -49,9 +47,6 @@ body{
     font-size:20px;
     cursor:pointer;
 }
-
-/* HERO SECTION */
-
 .hero{
     height:350px;
     background:
@@ -81,8 +76,6 @@ body{
     max-width:700px;
     line-height:30px;
 }
-
-/* ABOUT */
 
 .about{
     padding:80px 60px;
@@ -169,8 +162,6 @@ body{
     line-height:25px;
 }
 
-/* FOOTER */
-
 footer{
     background:black;
     text-align:center;
@@ -178,8 +169,6 @@ footer{
     color:#aaa;
     border-top:1px solid #111;
 }
-
-/* RESPONSIVE */
 
 @media(max-width:900px){
 

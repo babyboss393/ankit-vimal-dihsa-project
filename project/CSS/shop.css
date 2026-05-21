@@ -165,8 +165,6 @@ transition:0.3s;
 background:white;
 color:black;
 }
-
-/* FOOTER */
 footer{
 background:#050505;
 padding:30px;
@@ -174,7 +172,6 @@ text-align:center;
 border-top:1px solid #111;
 color:#888;
 }
-    /* RESPONSIVE */
 @media(max-width:768px){
 
 .navbar{
