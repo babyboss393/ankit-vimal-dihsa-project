@@ -184,17 +184,4 @@ padding:20px;
 flex-direction:column;
 gap:20px;
 }
-
-.nav-links{
-flex-wrap:wrap;
-justify-content:center;
-}
-
-.shop-banner h1{
-font-size:45px;
-}
-
-.products{
-padding:30px 20px;
-}
 }
