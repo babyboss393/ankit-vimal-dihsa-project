@@ -47,8 +47,6 @@ transition:0.3s;
 nav ul li a:hover{
 color:#ff4d6d;
 }
-background-image:url('../images/shop-bg.jpg');
-body{
 
 .categories{
 display:flex;
