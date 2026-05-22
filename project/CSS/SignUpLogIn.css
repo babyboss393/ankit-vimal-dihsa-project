@@ -10,7 +10,41 @@ background:#0f0f0f;
 color:white;
 overflow-x:hidden;
 }
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 8%;
+background:rgba(255,255,255,0.05);
+backdrop-filter:blur(10px);
+position:sticky;
+top:0;
+z-index:1000;
+}
+.logo{
+display:flex;
+align-items:center;
+gap:10px;
+font-size:28px;
+font-weight:700;
+color:#ff4d6d;
+}
+nav ul{
+display:flex;
+gap:30px;
+list-style:none;
+}
 
+nav ul li a{
+text-decoration:none;
+color:white;
+font-weight:500;
+transition:0.3s;
+}
+
+nav ul li a:hover{
+color:#ff4d6d;
+}
 /* Dark Overlay */
 body::before{
     content:"";
